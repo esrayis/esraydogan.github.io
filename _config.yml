@@ -1,7 +1,7 @@
-title:         Cagatay Isil  
+title:         Esra Aydogan 
 description:      Welcome to my site.
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              //cagatayisil.github.io
+url:              //esraydogan.github.io
 #http://localhost:5000
 #https://jponttuset.github.io
 disqus_shortname: cagatayisil
@@ -9,17 +9,17 @@ disqus_shortname: cagatayisil
 # Owner/author information
 owner:
   name:           Contact
-  avatar:         cgty3.jpeg
+  avatar:         github_esra_pp.jpg
   bio:            
-  email:          cagatayisil@ucla.edu
+  email:          esra.aydogan.ea@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: Cgtysl
-  linkedin: cagatayisil
-  google_scholar: xpNu7vMAAAAJ
+  #twitter: Cgtysl
+  linkedin: esra-aydogan
+  #google_scholar: xpNu7vMAAAAJ
   google_plus: 
-  github: Cagatayisil
+  github: esraydogan
 # Analytics and webmaster tools stuff goes here
-google_analytics: UA-131903816-1
+#google_analytics: UA-131903816-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
@@ -29,8 +29,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Publications & Talks
-    url: /publications/
+  - title: Projects 
+    url: /projects/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
