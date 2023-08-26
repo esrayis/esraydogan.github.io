@@ -1,7 +1,7 @@
 ---
-layout: publications
-permalink: /publications/
-title: Publications & Talks
+layout: projects
+permalink: /projects/
+title: Projects
 tags: [publications]
 modified: 8-7-2014
 comments: false
