@@ -2,7 +2,7 @@
 layout: projects
 permalink: /projects/
 title: Projects
-tags: [publications]
+tags: [projects]
 modified: 8-7-2014
 comments: false
 ---
