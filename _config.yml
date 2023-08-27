@@ -29,8 +29,8 @@ bing_verify:
 links:
   - title: Home
     url: /
-  - title: Projects 
-    url: /projects/
+  # - title: Projects 
+  #   url: /projects/
 
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
