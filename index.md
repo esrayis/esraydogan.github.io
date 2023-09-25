@@ -19,4 +19,4 @@ Furthermore, I completed the Google UX Design Certificate program, which has pro
 As a lifelong learner, I am committed to continuous self-improvement and dedicate myself to acquiring new knowledge and skills at all times.
 
 <br />
-My resume can be found <a href="https://esrayis.github.io/github_resume_EsraAydogan.pdf" target="_blank">here</a>.
+My resume can be found <a href="https://esrayis.github.io/EsraAydogan_Resume.pdf" target="_blank">here</a>.
